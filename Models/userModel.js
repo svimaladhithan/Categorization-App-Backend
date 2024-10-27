@@ -24,10 +24,10 @@ const userSchema = new mongoose.Schema(
         type: Boolean,
         default: false, 
       }, 
-      selectedCategories:{
+      selectedCategories:[{
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Category'
-      }
+      }]
   },
   { timestamps: true }
 );
