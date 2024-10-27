@@ -6,7 +6,7 @@
 - Implemented **JWT** and **Bcrypt** for secure access.
 
 ## Postman Documentation:
-[Postman Documentation](https://documenter.getpostman.com/view/34987093/2sA3dxEXmC)
+[Postman Documentation](https://documenter.getpostman.com/view/34987093/2sAY4skQPA)
 
 ## Technologies Used:
 - **Backend Language**: Node.js
